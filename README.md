@@ -35,23 +35,10 @@ The project is divided into the following key components:
 2. **Get Diagnosis:** The application processes the images using the implemented models and provides a diagnostic result.
 3. **Review Results:** Review the results displayed on the interface, which include the classification and confidence level.
 
-## Contributions
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact [snigdhapaul2003@gmail.com].
 
 ---
 
